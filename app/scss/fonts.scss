@@ -2,7 +2,7 @@
 $mono: false;
 $svg: true;
 $truetupe: true;
-@each $s in Academia Plain, Adventurer Black SF, Roboto Bold/* Список подключаемых шрифтов. */
+@each $s in PF Centro Slab Pro Bold, PF Centro Slab Pro Medium, Raleway Bold, Raleway Regular, Raleway Semi Bold, Resagokr Bold, Resagokr Regular, Roboto Bold/* Список подключаемых шрифтов. */
 {
     @font-face
     {

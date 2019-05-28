@@ -1,16 +1,51 @@
 @charset "UTF-8";
 /* Подключение шрифтов. */
 @font-face {
-  font-family: "Academia Plain";
-  src: url("../fonts/Academia Plain.eot");
-  src: local("☺"), url("../fonts/Academia Plain.woff") format("woff"), url("../fonts/Academia Plain.ttf") format("truetype"), url("../fonts/Academia Plain.svg") format("svg");
+  font-family: "PF Centro Slab Pro Bold";
+  src: url("../fonts/PF Centro Slab Pro Bold.eot");
+  src: local("☺"), url("../fonts/PF Centro Slab Pro Bold.woff") format("woff"), url("../fonts/PF Centro Slab Pro Bold.ttf") format("truetype"), url("../fonts/PF Centro Slab Pro Bold.svg") format("svg");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
-  font-family: "Adventurer Black SF";
-  src: url("../fonts/Adventurer Black SF.eot");
-  src: local("☺"), url("../fonts/Adventurer Black SF.woff") format("woff"), url("../fonts/Adventurer Black SF.ttf") format("truetype"), url("../fonts/Adventurer Black SF.svg") format("svg");
+  font-family: "PF Centro Slab Pro Medium";
+  src: url("../fonts/PF Centro Slab Pro Medium.eot");
+  src: local("☺"), url("../fonts/PF Centro Slab Pro Medium.woff") format("woff"), url("../fonts/PF Centro Slab Pro Medium.ttf") format("truetype"), url("../fonts/PF Centro Slab Pro Medium.svg") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Raleway Bold";
+  src: url("../fonts/Raleway Bold.eot");
+  src: local("☺"), url("../fonts/Raleway Bold.woff") format("woff"), url("../fonts/Raleway Bold.ttf") format("truetype"), url("../fonts/Raleway Bold.svg") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Raleway Regular";
+  src: url("../fonts/Raleway Regular.eot");
+  src: local("☺"), url("../fonts/Raleway Regular.woff") format("woff"), url("../fonts/Raleway Regular.ttf") format("truetype"), url("../fonts/Raleway Regular.svg") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Raleway Semi Bold";
+  src: url("../fonts/Raleway Semi Bold.eot");
+  src: local("☺"), url("../fonts/Raleway Semi Bold.woff") format("woff"), url("../fonts/Raleway Semi Bold.ttf") format("truetype"), url("../fonts/Raleway Semi Bold.svg") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Resagokr Bold";
+  src: url("../fonts/Resagokr Bold.eot");
+  src: local("☺"), url("../fonts/Resagokr Bold.woff") format("woff"), url("../fonts/Resagokr Bold.ttf") format("truetype"), url("../fonts/Resagokr Bold.svg") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Resagokr Regular";
+  src: url("../fonts/Resagokr Regular.eot");
+  src: local("☺"), url("../fonts/Resagokr Regular.woff") format("woff"), url("../fonts/Resagokr Regular.ttf") format("truetype"), url("../fonts/Resagokr Regular.svg") format("svg");
   font-weight: normal;
   font-style: normal; }
 
